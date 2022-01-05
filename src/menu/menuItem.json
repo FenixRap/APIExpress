@@ -1,0 +1,71 @@
+[
+  {
+    "_id":{
+      "secondCategory": "Каталог"
+    },
+    "pages": [
+      {
+        "alias": "Алиас",
+        "title":"тайтл",
+        "_id":"Айди",
+        "category": "Категория"
+      }
+    ]
+  },
+  {
+    "_id":{
+      "secondCategory": "Уход за лицом"
+    },
+    "pages": [
+      {
+        "alias": "Алиас",
+        "title":"тайтл",
+        "_id":"Айди",
+        "category": "Категория"
+      }
+    ]
+  },
+  {
+    "_id":{
+      "secondCategory": "Скидки"
+    },
+    "pages": [
+      {
+        "alias": "Алиас",
+        "title":"тайтл",
+        "_id":"Айди",
+        "category": "Категория"
+      }
+    ]
+  },
+  {
+    "_id":{
+      "secondCategory": "Бьюти-боксы"
+    },
+    "pages": [
+      {
+        "alias": "Алиас",
+        "title":"тайтл",
+        "_id":"Айди",
+        "category": "Категория"
+      }
+    ]
+  },
+  {
+    "_id":{
+      "secondCategory": "Статьи"
+    },
+    "pages": [
+      {
+        "alias": "Алиас",
+        "title":"тайтл",
+        "_id":"Айди",
+        "category": "Категория"
+      }
+    ]
+  },
+
+
+
+
+]

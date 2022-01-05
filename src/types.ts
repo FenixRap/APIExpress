@@ -1,0 +1,15 @@
+export const TYPES = {
+    Application: Symbol.for('Applicaton'),
+    ILogger: Symbol.for('ILogger'),
+    UserController: Symbol.for('UserController'),
+    UserService: Symbol.for('UserService'),
+    MenuController: Symbol.for('MenuController'),
+    ProductsController: Symbol.for('ProductsController'),
+    PagesController: Symbol.for('PagesController'),
+    ExeptionFilter: Symbol.for('ExeptionFilter'),
+    PrismaService: Symbol.for('PrismaService'),
+    UsersRepository: Symbol.for('UsersRepository'),
+    ConfigService: Symbol.for('ConfigService'),
+    ProductsRepository: Symbol.for('ProductsRepository'),
+    ProductsService: Symbol.for('ProductsService'),
+}
